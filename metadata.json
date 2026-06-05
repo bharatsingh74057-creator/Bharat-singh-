@@ -1,0 +1,6 @@
+{
+  "name": "OriginOS 6 Ultimate",
+  "description": "An all-in-one immersive hub showcasing Vivo's OriginOS 6 features, including a custom flip-card lock screen, bouncy interactive Origin Island, dynamic control center, NFC card manager tracker, and passcode-secured private space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
